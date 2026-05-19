@@ -56,19 +56,19 @@ database/sportclub.sql
 ![Login Page](screenshots/login-page.png)
 
 ### Team Registration Page
-![Team Registration](screenshots/team-registration.png)
+![Team Registration](screenshots/team-registration-page.png)
 
 ### Players Details Page
-![Players Details](screenshots/players-details.png)
+![Players Details](screenshots/players-detail-page.png)
 
 ### Team Details Page
-![Team Details](screenshots/team-details.png)
+![Team Details](screenshots/team-details-page.png)
 
 ### Add Tournament Page
-![Add Tournament](screenshots/add-tournament.png)
+![Add Tournament](screenshots/add-tournament-page.png)
 
 ### Add Schedule Page
-![Add Schedule](screenshots/add-schedule.png)
+![Add Schedule](screenshots/add-schedule-page.png)
 
 ### Feedback Page
 ![Feedback Page](screenshots/feedback-page.png)
